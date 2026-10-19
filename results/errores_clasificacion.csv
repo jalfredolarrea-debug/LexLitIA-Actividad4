@@ -1,0 +1,25 @@
+﻿Modelo,Familia,Categoria real,Prediccion
+mDeBERTa,TDD-EVA-02,Tarjeta de Debito,Tarjeta de Credito
+mDeBERTa,TDD-EVA-04,Tarjeta de Debito,Cheques
+mDeBERTa,TDD-EVA-05,Tarjeta de Debito,Canales Digitales
+mDeBERTa,TDC-EVA-04,Tarjeta de Credito,Tarjeta de Debito
+mDeBERTa,TDC-EVA-05,Tarjeta de Credito,Canales Digitales
+mDeBERTa,OTR-EVA-01,Otros,Tarjeta de Credito
+mDeBERTa,OTR-EVA-02,Otros,Tarjeta de Credito
+mDeBERTa,OTR-EVA-03,Otros,Cheques
+mDeBERTa,OTR-EVA-05,Otros,Tarjeta de Credito
+XLM-RoBERTa,TDD-EVA-02,Tarjeta de Debito,Canales Digitales
+XLM-RoBERTa,TDD-EVA-04,Tarjeta de Debito,Cheques
+XLM-RoBERTa,OTR-EVA-01,Otros,Cheques
+XLM-RoBERTa,OTR-EVA-02,Otros,Canales Digitales
+XLM-RoBERTa,OTR-EVA-03,Otros,Canales Digitales
+XLM-RoBERTa,OTR-EVA-04,Otros,Cheques
+XLM-RoBERTa,OTR-EVA-05,Otros,Tarjeta de Credito
+BART,TDD-EVA-02,Tarjeta de Debito,Tarjeta de Credito
+BART,TDD-EVA-04,Tarjeta de Debito,Cheques
+BART,TDC-EVA-04,Tarjeta de Credito,Tarjeta de Debito
+BART,DIG-EVA-04,Canales Digitales,Cheques
+BART,OTR-EVA-01,Otros,Cheques
+BART,OTR-EVA-02,Otros,Tarjeta de Credito
+BART,OTR-EVA-04,Otros,Cheques
+BART,OTR-EVA-05,Otros,Tarjeta de Credito

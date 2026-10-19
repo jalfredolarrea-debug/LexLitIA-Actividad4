@@ -1,0 +1,26 @@
+[
+  {
+    "archivo": "data/lexlitia_dataset.csv",
+    "sha256": "2b78edb69a23075e7412a6143e6391b7796989e68bc0fb8c6450be4c3bb44871"
+  },
+  {
+    "archivo": "results/metricas_comparativas.csv",
+    "sha256": "1cb387361be3f90a839b2a439ebc1268d804f1c0cce3386ef8b9d14bb431b2d1"
+  },
+  {
+    "archivo": "results/predicciones_detalladas.csv",
+    "sha256": "d3f8ba90d2b21977ce69752546750de08d7279fe1347ede6792ec05fd054c069"
+  },
+  {
+    "archivo": "results/metricas_por_categoria.csv",
+    "sha256": "126087d7d986076fd323f5c8f3f018ec4cae4a96c3ce436c48d117d47cb6ace1"
+  },
+  {
+    "archivo": "results/errores_clasificacion.csv",
+    "sha256": "790ce0997b8b6d82b38c8f132386500c1e098ec993f0d942bb25ee02e4ca9e18"
+  },
+  {
+    "archivo": "results/matriz_decision.csv",
+    "sha256": "a1b766e4e448b0f2ca341c3dfd8f9c828ed28da25fbb3cf0074bbf9f7a2be01b"
+  }
+]
